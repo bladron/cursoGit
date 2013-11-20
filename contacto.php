@@ -1,1 +1,1 @@
-<? contacto ?>
+<?php contacto ?>
